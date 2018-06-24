@@ -1,0 +1,1 @@
+*:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug  目录下     名为LoveShopping.mdf，运行程序自动添加数据库

@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{095671D4-B14F-47B6-A31C-17F7031F29E7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LoveShopping</RootNamespace>
+    <AssemblyName>LoveShopping</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetZone>LocalIntranet</TargetZone>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Frm_AddCommdodity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_AddCommdodity.designer.cs">
+      <DependentUpon>Frm_AddCommdodity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Backup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Backup.Designer.cs">
+      <DependentUpon>Frm_Backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_BuydeGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_BuydeGoods.Designer.cs">
+      <DependentUpon>Frm_BuydeGoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_BuydeZhifu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_BuydeZhifu.Designer.cs">
+      <DependentUpon>Frm_BuydeZhifu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ChongZhi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ChongZhi.designer.cs">
+      <DependentUpon>Frm_ChongZhi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ComXiangXI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ComXiangXI.Designer.cs">
+      <DependentUpon>Frm_ComXiangXI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_LiuLanComDat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_LiuLanComDat.Designer.cs">
+      <DependentUpon>Frm_LiuLanComDat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_LiuLanComPa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_LiuLanComPa.Designer.cs">
+      <DependentUpon>Frm_LiuLanComPa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Login.Designer.cs">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ComYuLan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ComYuLan.Designer.cs">
+      <DependentUpon>Frm_ComYuLan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Main_Buyde.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Main_Buyde.Designer.cs">
+      <DependentUpon>Frm_Main_Buyde.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Main_Sellde.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Main_Sellde.Designer.cs">
+      <DependentUpon>Frm_Main_Sellde.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_SelldeGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_SelldeGoods.Designer.cs">
+      <DependentUpon>Frm_SelldeGoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_UserSheZhi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_UserSheZhi.designer.cs">
+      <DependentUpon>Frm_UserSheZhi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_UpdatePwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_UpdatePwd.designer.cs">
+      <DependentUpon>Frm_UpdatePwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_UserOrther.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_UserOrther.Designer.cs">
+      <DependentUpon>Frm_UserOrther.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_WangJiPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_WangJiPwd.Designer.cs">
+      <DependentUpon>Frm_WangJiPwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Frm_AddCommdodity.resx">
+      <DependentUpon>Frm_AddCommdodity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Backup.resx">
+      <DependentUpon>Frm_Backup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_BuydeGoods.resx">
+      <DependentUpon>Frm_BuydeGoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_BuydeZhifu.resx">
+      <DependentUpon>Frm_BuydeZhifu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ChongZhi.resx">
+      <DependentUpon>Frm_ChongZhi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ComXiangXI.resx">
+      <DependentUpon>Frm_ComXiangXI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_LiuLanComDat.resx">
+      <DependentUpon>Frm_LiuLanComDat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_LiuLanComPa.resx">
+      <DependentUpon>Frm_LiuLanComPa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Login.resx">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ComYuLan.resx">
+      <DependentUpon>Frm_ComYuLan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Main_Buyde.resx">
+      <DependentUpon>Frm_Main_Buyde.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Main_Sellde.resx">
+      <DependentUpon>Frm_Main_Sellde.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_SelldeGoods.resx">
+      <DependentUpon>Frm_SelldeGoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_UserSheZhi.resx">
+      <DependentUpon>Frm_UserSheZhi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_UpdatePwd.resx">
+      <DependentUpon>Frm_UpdatePwd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_UserOrther.resx">
+      <DependentUpon>Frm_UserOrther.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_WangJiPwd.resx">
+      <DependentUpon>Frm_WangJiPwd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Restore.resx">
+      <DependentUpon>Frm_Restore.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Frm_Restore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Restore.Designer.cs">
+      <DependentUpon>Frm_Restore.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\love_BLL\love_BLL.csproj">
+      <Project>{54F1235A-5726-4BB8-BA53-35A22A99731A}</Project>
+      <Name>love_BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\love_DAL\love_DAL.csproj">
+      <Project>{405B7553-FE52-469D-939C-426E0AB93719}</Project>
+      <Name>love_DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

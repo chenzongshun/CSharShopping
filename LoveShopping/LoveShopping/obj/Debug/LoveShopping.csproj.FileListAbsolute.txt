@@ -1,0 +1,329 @@
+E:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe
+E:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\LoveShopping.pdb
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\ResolveAssemblyReference.cache
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_login.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Properties.Resources.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.csproj.GenerateResource.Cache
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.pdb
+E:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\love_DAL.dll
+E:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\love_DAL.pdb
+E:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.manifest
+E:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\LoveShopping.application
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.TrustInfo.xml
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe.manifest
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.application
+E:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.config
+E:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\love_BLL.dll
+E:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\love_BLL.pdb
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UserOrther.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Backup.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Restore.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_AddCommdodity.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_WangJiPwd.resources
+F:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.config
+F:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe
+F:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.pdb
+F:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.manifest
+F:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\LoveShopping.application
+F:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe
+F:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\LoveShopping.pdb
+F:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\love_BLL.dll
+F:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\love_DAL.dll
+F:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\love_BLL.pdb
+F:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\love_DAL.pdb
+F:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\ResolveAssemblyReference.cache
+F:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_AddCommdodity.resources
+F:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Backup.resources
+F:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Login.resources
+F:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComYuLan.resources
+F:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UserOrther.resources
+F:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_WangJiPwd.resources
+F:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Properties.Resources.resources
+F:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Restore.resources
+F:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.csproj.GenerateResource.Cache
+F:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.TrustInfo.xml
+F:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe.manifest
+F:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.application
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComYuLan.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Sellde.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Buyde.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UpdatePwd.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComXiangXI.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.config
+D:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.manifest
+D:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\LoveShopping.application
+D:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe
+D:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\LoveShopping.pdb
+D:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\love_BLL.dll
+D:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\love_DAL.dll
+D:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\office.dll
+D:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\love_BLL.pdb
+D:\CShar实训商城\LoveShopping\LoveShopping\bin\Debug\love_DAL.pdb
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\ResolveAssemblyReference.cache
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_AddCommdodity.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Backup.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComXiangXI.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Login.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComYuLan.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Buyde.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Sellde.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UpdatePwd.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UserOrther.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_WangJiPwd.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Properties.Resources.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Restore.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.csproj.GenerateResource.Cache
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.TrustInfo.xml
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe.manifest
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.application
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.pdb
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.config
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.pdb
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.manifest
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\LoveShopping.application
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\LoveShopping.pdb
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\love_BLL.dll
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\love_DAL.dll
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\office.dll
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\love_BLL.pdb
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\love_DAL.pdb
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\ResolveAssemblyReference.cache
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_AddCommdodity.resources
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Backup.resources
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComXiangXI.resources
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_LiuLanCom.resources
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Login.resources
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComYuLan.resources
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Buyde.resources
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Sellde.resources
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UpdatePwd.resources
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UserOrther.resources
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_WangJiPwd.resources
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Properties.Resources.resources
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Restore.resources
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.csproj.GenerateResource.Cache
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.TrustInfo.xml
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe.manifest
+D:\实训项目备份\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.application
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.config
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.pdb
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.manifest
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\LoveShopping.application
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\LoveShopping.pdb
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\love_BLL.dll
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\love_DAL.dll
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\office.dll
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\love_BLL.pdb
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\bin\Debug\love_DAL.pdb
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_AddCommdodity.resources
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Backup.resources
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComXiangXI.resources
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_LiuLanCom.resources
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Login.resources
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComYuLan.resources
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Buyde.resources
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Sellde.resources
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UpdatePwd.resources
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UserOrther.resources
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_WangJiPwd.resources
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Properties.Resources.resources
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Restore.resources
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.csproj.GenerateResource.Cache
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.TrustInfo.xml
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe.manifest
+C:\Users\Administrator.AGOE2345-121425\Desktop\CShar实训商城 2017-06-15---00：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.application
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_LiuLanComDat.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_LiuLanComPa.resources
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.config
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.pdb
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.manifest
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\bin\Debug\LoveShopping.application
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\bin\Debug\LoveShopping.pdb
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\bin\Debug\love_BLL.dll
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\bin\Debug\love_DAL.dll
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\bin\Debug\love_BLL.pdb
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\bin\Debug\love_DAL.pdb
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\ResolveAssemblyReference.cache
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_AddCommdodity.resources
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Backup.resources
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.frm_BuydeZhifu.resources
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComXiangXI.resources
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_LiuLanComDat.resources
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_LiuLanComPa.resources
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Login.resources
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComYuLan.resources
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Buyde.resources
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Sellde.resources
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UpdatePwd.resources
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UserOrther.resources
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_WangJiPwd.resources
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Properties.Resources.resources
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Restore.resources
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.csproj.GenerateResource.Cache
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.TrustInfo.xml
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe.manifest
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\LoveShopping\obj\Debug\LoveShopping.application
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.config
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.pdb
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.manifest
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\bin\Debug\LoveShopping.application
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\bin\Debug\LoveShopping.pdb
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\bin\Debug\love_BLL.dll
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\bin\Debug\love_DAL.dll
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\bin\Debug\office.dll
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\bin\Debug\love_BLL.pdb
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\bin\Debug\love_DAL.pdb
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\ResolveAssemblyReference.cache
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_AddCommdodity.resources
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Backup.resources
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.frm_BuydeZhifu.resources
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComXiangXI.resources
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_LiuLanComDat.resources
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_LiuLanComPa.resources
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Login.resources
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComYuLan.resources
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Buyde.resources
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Sellde.resources
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UpdatePwd.resources
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UserOrther.resources
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_WangJiPwd.resources
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Properties.Resources.resources
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Restore.resources
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.csproj.GenerateResource.Cache
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.TrustInfo.xml
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe.manifest
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\LoveShopping\obj\Debug\LoveShopping.application
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.config
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.pdb
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.manifest
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\bin\Debug\LoveShopping.application
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\bin\Debug\LoveShopping.pdb
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\bin\Debug\love_BLL.dll
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\bin\Debug\love_DAL.dll
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\bin\Debug\office.dll
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\bin\Debug\love_BLL.pdb
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\bin\Debug\love_DAL.pdb
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\ResolveAssemblyReference.cache
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_AddCommdodity.resources
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Backup.resources
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_BuydeZhifu.resources
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComXiangXI.resources
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_LiuLanComDat.resources
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_LiuLanComPa.resources
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Login.resources
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComYuLan.resources
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Buyde.resources
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Sellde.resources
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UpdatePwd.resources
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UserOrther.resources
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_WangJiPwd.resources
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Properties.Resources.resources
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Restore.resources
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.csproj.GenerateResource.Cache
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.TrustInfo.xml
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe.manifest
+D:\CShar实训商城 2017-06-17---03：05\LoveShopping\LoveShopping\obj\Debug\LoveShopping.application
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.config
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.pdb
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.manifest
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\bin\Debug\LoveShopping.application
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\bin\Debug\LoveShopping.pdb
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\bin\Debug\love_BLL.dll
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\bin\Debug\love_DAL.dll
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\bin\Debug\office.dll
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\bin\Debug\love_BLL.pdb
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\bin\Debug\love_DAL.pdb
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\ResolveAssemblyReference.cache
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_AddCommdodity.resources
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Backup.resources
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_BuydeZhifu.resources
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComXiangXI.resources
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_LiuLanComDat.resources
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_LiuLanComPa.resources
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Login.resources
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComYuLan.resources
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Buyde.resources
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Sellde.resources
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UpdatePwd.resources
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UserOrther.resources
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_WangJiPwd.resources
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Properties.Resources.resources
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Restore.resources
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.csproj.GenerateResource.Cache
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.TrustInfo.xml
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe.manifest
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\LoveShopping\obj\Debug\LoveShopping.application
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_BuydeZhifu.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_BuydeGoods.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_SelldeGoods.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_BuydeGoods.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_BuydeZhifu.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.frm_ChongZhi.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_LiuLanComDat.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_LiuLanComPa.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_SelldeGoods.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ChongZhi.resources
+E:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UserSheZhi.resources
+D:\CShar实训商城\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UserSheZhi.resources
+D:\1111111111\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.config
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.pdb
+D:\1111111111\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe.manifest
+D:\1111111111\LoveShopping\LoveShopping\bin\Debug\LoveShopping.application
+D:\1111111111\LoveShopping\LoveShopping\bin\Debug\LoveShopping.exe
+D:\1111111111\LoveShopping\LoveShopping\bin\Debug\LoveShopping.pdb
+D:\1111111111\LoveShopping\LoveShopping\bin\Debug\love_BLL.dll
+D:\1111111111\LoveShopping\LoveShopping\bin\Debug\love_DAL.dll
+D:\1111111111\LoveShopping\LoveShopping\bin\Debug\love_BLL.pdb
+D:\1111111111\LoveShopping\LoveShopping\bin\Debug\love_DAL.pdb
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\ResolveAssemblyReference.cache
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_AddCommdodity.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Backup.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_BuydeGoods.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_BuydeZhifu.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ChongZhi.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComXiangXI.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_LiuLanComDat.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_LiuLanComPa.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Login.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_ComYuLan.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Buyde.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Main_Sellde.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_SelldeGoods.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UserSheZhi.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UpdatePwd.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_UserOrther.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_WangJiPwd.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Properties.Resources.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.Frm_Restore.resources
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.csproj.GenerateResource.Cache
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.TrustInfo.xml
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.exe.manifest
+D:\1111111111\LoveShopping\LoveShopping\obj\Debug\LoveShopping.application

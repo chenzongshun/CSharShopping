@@ -1,0 +1,39 @@
+E:\CShar实训商城\LoveShopping\love_DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\CShar实训商城\LoveShopping\love_DAL\bin\Debug\love_DAL.dll
+E:\CShar实训商城\LoveShopping\love_DAL\bin\Debug\love_DAL.pdb
+E:\CShar实训商城\LoveShopping\love_DAL\obj\Debug\love_DAL.dll
+E:\CShar实训商城\LoveShopping\love_DAL\obj\Debug\love_DAL.pdb
+D:\CShar实训商城\LoveShopping\love_DAL\bin\Debug\love_DAL.dll
+D:\CShar实训商城\LoveShopping\love_DAL\bin\Debug\love_DAL.pdb
+D:\CShar实训商城\LoveShopping\love_DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\CShar实训商城\LoveShopping\love_DAL\bin\Debug\office.dll
+D:\CShar实训商城\LoveShopping\love_DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\CShar实训商城\LoveShopping\love_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\CShar实训商城\LoveShopping\love_DAL\obj\Debug\love_DAL.dll
+D:\CShar实训商城\LoveShopping\love_DAL\obj\Debug\love_DAL.pdb
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\love_DAL\bin\Debug\love_DAL.dll
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\love_DAL\bin\Debug\love_DAL.pdb
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\love_DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\love_DAL\obj\Debug\love_DAL.dll
+E:\CShar实训商城 2017-06-16---13：17\LoveShopping\love_DAL\obj\Debug\love_DAL.pdb
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\love_DAL\bin\Debug\love_DAL.dll
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\love_DAL\bin\Debug\love_DAL.pdb
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\love_DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\love_DAL\bin\Debug\office.dll
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\love_DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\love_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\love_DAL\obj\Debug\love_DAL.dll
+D:\CShar实训商城 2017-06-16---18：00\LoveShopping\love_DAL\obj\Debug\love_DAL.pdb
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\love_DAL\bin\Debug\love_DAL.dll
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\love_DAL\bin\Debug\love_DAL.pdb
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\love_DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\love_DAL\bin\Debug\office.dll
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\love_DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\love_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\love_DAL\obj\Debug\love_DAL.dll
+D:\CShar实训商城 2017-06-17---12：52\LoveShopping\love_DAL\obj\Debug\love_DAL.pdb
+D:\1111111111\LoveShopping\love_DAL\bin\Debug\love_DAL.dll
+D:\1111111111\LoveShopping\love_DAL\bin\Debug\love_DAL.pdb
+D:\1111111111\LoveShopping\love_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\1111111111\LoveShopping\love_DAL\obj\Debug\love_DAL.dll
+D:\1111111111\LoveShopping\love_DAL\obj\Debug\love_DAL.pdb
